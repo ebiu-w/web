@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khám Phá Việt Nam</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Khám Phá Việt Nam</h1>
+        <nav>
+            <ul>
+                <li><a href="#ha-noi">Hà Nội</a></li>
+                <li><a href="#da-nang">Đà Nẵng</a></li>
+                <li><a href="#sai-gon">Sài Gòn</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="ha-noi">
+            <h2>Hà Nội</h2>
+            <p>Thủ đô của Việt Nam với lịch sử ngàn năm văn hiến. Nơi đây có Hồ Gươm, Lăng Bác và phố cổ Hà Nội.</p>
+            <img src="https://via.placeholder.com/400x300" alt="Hà Nội">
+        </section>
+        <section id="da-nang">
+            <h2>Đà Nẵng</h2>
+            <p>Thành phố biển xinh đẹp nổi tiếng với cầu Rồng, bãi biển Mỹ Khê và Bà Nà Hills.</p>
+            <img src="https://via.placeholder.com/400x300" alt="Đà Nẵng">
+        </section>
+        <section id="sai-gon">
+            <h2>Sài Gòn</h2>
+            <p>Thành phố năng động nhất Việt Nam, nơi giao thoa văn hóa và hiện đại với Dinh Độc Lập, Nhà thờ Đức Bà.</p>
+            <img src="https://via.placeholder.com/400x300" alt="Sài Gòn">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Khám Phá Việt Nam</p>
+    </footer>
+</body>
+</html>
